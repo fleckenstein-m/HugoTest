@@ -1,5 +1,5 @@
 +++
-title = ""
+title = "Syllabus"
 type = "home"
 +++
 

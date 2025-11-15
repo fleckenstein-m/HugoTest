@@ -1,14 +1,30 @@
 var relearn_searchindex = [
   {
-    "breadcrumb": "My New Hugo Site",
-    "content": "This is a new chapter.",
-    "description": "This is a new chapter.",
+    "breadcrumb": "Syllabus",
+    "content": "This chapter covers essential concepts.",
+    "description": "This chapter covers essential concepts.",
     "tags": [],
-    "title": "Log",
-    "uri": "/HugoTest/log/index.html"
+    "title": "Chapter 1 — Basics",
+    "uri": "/HugoTest/basics/index.html"
   },
   {
-    "breadcrumb": "My New Hugo Site",
+    "breadcrumb": "Syllabus \u003e Chapter 1 — Basics",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Overview",
+    "uri": "/HugoTest/basics/overview/index.html"
+  },
+  {
+    "breadcrumb": "Syllabus \u003e Chapter 1 — Basics",
+    "content": "Lectures\rLecture 1 Lecture 2 Lecture 1 Slides",
+    "description": "Lectures\rLecture 1 Lecture 2 Lecture 1 Slides",
+    "tags": [],
+    "title": "Use Cases",
+    "uri": "/HugoTest/basics/usecases/index.html"
+  },
+  {
+    "breadcrumb": "Syllabus",
     "content": "",
     "description": "",
     "tags": [],
@@ -16,7 +32,15 @@ var relearn_searchindex = [
     "uri": "/HugoTest/categories/index.html"
   },
   {
-    "breadcrumb": "My New Hugo Site",
+    "breadcrumb": "",
+    "content": "This is your new home page.",
+    "description": "This is your new home page.",
+    "tags": [],
+    "title": "Syllabus",
+    "uri": "/HugoTest/index.html"
+  },
+  {
+    "breadcrumb": "Syllabus",
     "content": "",
     "description": "",
     "tags": [],
