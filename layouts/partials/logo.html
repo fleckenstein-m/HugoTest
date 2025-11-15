@@ -1,3 +1,12 @@
-<a id="R-logo" href="{{ partial "permalink.gotmpl" (dict "to" .Site.Home) }}">
-  <img src="{{"images/favicon.png" | relURL}}" alt="FINC462/662">
+<a id="R-logo" href="{{ partial "permalink.gotmpl" (dict "to" .Site.Home) }}" class="r-logo-wrapper">
+  <img class="r-logo-img" src="{{ "images/favicon.png" | relURL }}" alt="brand logo">
 </a>
+
+<div class="r-header-text">
+  <div class="r-course-title">{{ .Site.Params.courseTitle }}</div>
+  <div class="r-course-term">{{ .Site.Params.courseTerm }}</div>
+  <div class="r-course-instructor">{{ .Site.Params.instructor }}</div>
+
+  <!-- Horizontal rule -->
+  <hr class="r-header-hr">
+</div>

@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/HugoTest/basics/index.html</loc>
+    <loc>https://fleckenstein-m.github.io/HugoTest/assignments/assignment_01/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/HugoTest/basics/overview/index.html</loc>
+    <loc>https://fleckenstein-m.github.io/HugoTest/lectures/lecture_01/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/HugoTest/basics/usecases/index.html</loc>
+    <loc>https://fleckenstein-m.github.io/HugoTest/lectures/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/HugoTest/categories/index.html</loc>
+    <loc>https://fleckenstein-m.github.io/HugoTest/assignments/assignment_02/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/HugoTest/index.html</loc>
+    <loc>https://fleckenstein-m.github.io/HugoTest/assignments/index.html</loc>
   </url>
   <url>
-    <loc>http://localhost:1313/HugoTest/tags/index.html</loc>
+    <loc>https://fleckenstein-m.github.io/HugoTest/lectures/lecture_02/index.html</loc>
+  </url>
+  <url>
+    <loc>https://fleckenstein-m.github.io/HugoTest/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://fleckenstein-m.github.io/HugoTest/index.html</loc>
+  </url>
+  <url>
+    <loc>https://fleckenstein-m.github.io/HugoTest/tags/index.html</loc>
   </url>
 </urlset>

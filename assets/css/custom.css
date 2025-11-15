@@ -1,0 +1,53 @@
+.r-header-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 10px;
+  line-height: 1.2;
+}
+
+.r-course-title {
+  margin-top: 0.25rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.r-course-term{
+  font-size: 0.9rem;
+  opacity: 0.8;
+  margin-bottom: 0.50rem;
+}
+
+.r-course-instructor {
+  font-size: 1.0rem;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.r-header-hr {
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 6px auto 0 auto;  /* center it */
+  width: 80%;               /* adjust as preferred */
+}
+
+
+/* Apply gradient to the page background */
+:root {
+  /* use the neon sidebar gradient colors */
+  --neon-grad-1: #08002b;
+  --neon-grad-2: #2b0087;
+}
+
+/* The main content background */
+body,
+#body,
+.content {
+  background: radial-gradient(
+    circle at top left,
+    #2c00ff,
+    #140044,
+    #000014
+  );
+}

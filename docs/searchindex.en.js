@@ -1,30 +1,54 @@
 var relearn_searchindex = [
   {
-    "breadcrumb": "Syllabus",
-    "content": "This chapter covers essential concepts.",
-    "description": "This chapter covers essential concepts.",
-    "tags": [],
-    "title": "Chapter 1 — Basics",
-    "uri": "/HugoTest/basics/index.html"
-  },
-  {
-    "breadcrumb": "Syllabus \u003e Chapter 1 — Basics",
+    "breadcrumb": "FINC462/662 - Fixed Income Securities \u003e Assignments",
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Overview",
-    "uri": "/HugoTest/basics/overview/index.html"
+    "title": "Assignment 01",
+    "uri": "/HugoTest/assignments/assignment_01/index.html"
   },
   {
-    "breadcrumb": "Syllabus \u003e Chapter 1 — Basics",
-    "content": "Lectures\rLecture 1 Lecture 2 Lecture 1 Slides",
-    "description": "Lectures\rLecture 1 Lecture 2 Lecture 1 Slides",
+    "breadcrumb": "FINC462/662 - Fixed Income Securities \u003e Lectures",
+    "content": "",
+    "description": "",
     "tags": [],
-    "title": "Use Cases",
-    "uri": "/HugoTest/basics/usecases/index.html"
+    "title": "Lecture 01",
+    "uri": "/HugoTest/lectures/lecture_01/index.html"
   },
   {
-    "breadcrumb": "Syllabus",
+    "breadcrumb": "FINC462/662 - Fixed Income Securities",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Lectures",
+    "uri": "/HugoTest/lectures/index.html"
+  },
+  {
+    "breadcrumb": "FINC462/662 - Fixed Income Securities \u003e Assignments",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Assignment 02",
+    "uri": "/HugoTest/assignments/assignment_02/index.html"
+  },
+  {
+    "breadcrumb": "FINC462/662 - Fixed Income Securities",
+    "content": "Assignment 01 Assignment 02",
+    "description": "Assignment 01 Assignment 02",
+    "tags": [],
+    "title": "Assignments",
+    "uri": "/HugoTest/assignments/index.html"
+  },
+  {
+    "breadcrumb": "FINC462/662 - Fixed Income Securities \u003e Lectures",
+    "content": "Lectures\rLecture 1 Slides",
+    "description": "Lectures\rLecture 1 Slides",
+    "tags": [],
+    "title": "Lecture 02",
+    "uri": "/HugoTest/lectures/lecture_02/index.html"
+  },
+  {
+    "breadcrumb": "FINC462/662 - Fixed Income Securities",
     "content": "",
     "description": "",
     "tags": [],
@@ -33,14 +57,14 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "",
-    "content": "This is your new home page.",
-    "description": "This is your new home page.",
+    "content": "This is your new home page.\n📄 Show Syllabus",
+    "description": "This is your new home page.\n📄 Show Syllabus",
     "tags": [],
-    "title": "Syllabus",
+    "title": "FINC462/662 - Fixed Income Securities",
     "uri": "/HugoTest/index.html"
   },
   {
-    "breadcrumb": "Syllabus",
+    "breadcrumb": "FINC462/662 - Fixed Income Securities",
     "content": "",
     "description": "",
     "tags": [],

@@ -4,4 +4,15 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-relearn'
 [params]
-  themeVariant = ['neon','zen-light']
+  themeVariant = 'neon'
+  alwaysopen = false
+  linkTitle = 'FINC462/662'
+  collapsibleMenu = true
+  courseTitle = "FINC462/662: Fixed Income Securities"
+  courseTerm  = "Spring 2026"
+  instructor  = "Prof. Matt Fleckenstein"
+  custom_css = ["css/custom.css"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
