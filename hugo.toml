@@ -1,0 +1,5 @@
+publishDir = "docs"
+baseURL = "https://fleckenstein-m.github.io/HugoTest"
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-relearn'
